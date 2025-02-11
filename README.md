@@ -74,8 +74,7 @@ The project is implemented in Verilog and follows a modular approach, with each 
 - Introduce adaptive quantization for variable compression quality.
 
 ## Contributors
-- [Your Name]
-- [Other Team Members, if any]
+- S Varshini
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
