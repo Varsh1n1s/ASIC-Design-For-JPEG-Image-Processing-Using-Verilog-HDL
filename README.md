@@ -1,4 +1,4 @@
-# ASIC Design for JPEG Image Processing using Verilog HDL
+# ASIC Design for JPEG Image Compression using Verilog HDL
 
 ## Overview
 This project implements an ASIC-based JPEG image processing system using Verilog HDL. The design aims to achieve efficient image compression by leveraging hardware acceleration techniques for Discrete Cosine Transform (DCT), Quantization, Zigzag Scanning, and Entropy Encoding. The project focuses on optimizing power, area, and performance for real-time applications.
